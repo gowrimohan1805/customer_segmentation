@@ -16,6 +16,8 @@ All analysis, processing, modeling, and visualizations are included.
 
 ## 📁 Project Structure
 
+
+```
 customer_segmentation_complete/
 │
 ├── online_retails.csv                 # Raw dataset (input)
@@ -41,7 +43,7 @@ customer_segmentation_complete/
 │
 ├── requirements.txt                   # Python dependencies
 └── README.md                          # Complete project documentation
-
+```
 
 
 ---
